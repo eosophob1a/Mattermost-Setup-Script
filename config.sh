@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 email="a@b.com"
 password="Password42!"
 username="testuser"
